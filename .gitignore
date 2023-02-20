@@ -1,0 +1,16 @@
+.gradle
+
+build
+
+*.class
+*.log
+
+project/
+.idea/
+.bsp/
+
+.DS_Store
+.settings
+*.iml
+/target/*
+__pycache__
